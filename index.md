@@ -4,9 +4,9 @@
 <br>
 
 
-作品：When the Road Rises
-作者：Gregory Ashe
-评分：4.75/5
+作品：When the Road Rises <br>
+作者：Gregory Ashe <br>
+评分：4.75/5 <br>
 
 ![avatar](https://i.pinimg.com/originals/06/e4/c8/06e4c83d5b4c127d0e426b79be11f3eb.jpg)
 
