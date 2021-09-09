@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## When the Road Rises
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
+<br>
+<br>
 
-You can use the [editor on GitHub](https://github.com/Boheme130/WhenTheRoadRises.git.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+作品：When the Road Rises
+作者：Gregory Ashe
+评分：4.75/5
 
-### Markdown
+格力高县级市系列短篇，看不下他长篇的朋友可以用这篇文感受一下格力高风格。格力高明明很会写日常恋爱场景，但长篇里重点还是更多放在了探案，不过这是短篇风格就轻松很多了，通篇充满了两人恋爱的场景。这个故事发生时Hazard和Somers刚刚突破困难相互表白走到一起，Somers趁着假期带着Hazard来到郊区的一间旅馆度假，享受两人独处的浪漫时光。故事全篇都在发糖。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+哥特元素在格力高的作品里不断出现过，县级市系列里直接化用了福克纳和爱伦坡的哥特作品。而在这部短篇小说里，格力高更是把哥特氛围塑造到了极致：荒郊野外的老式旅馆，前身是精神病院和少儿改造所，阴森的店主人，南北战争冤魂的传说，失踪的男孩鬼魂，暗指阴间的店名，半夜婴儿的凄厉哭声，Hazard若隐若现的黑暗回忆。我读到一半以为因为这是短篇，格力高会用诺桑觉寺那样的手法处理哥特剧情，但结局证明我错了，格力高果然还是延续了长篇的探案风格。
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/WhenTheRoadRises.git.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*想要知道两个人接下来的恋爱，以及Hazard若隐若现的黑暗回忆究竟是什么，请看县级市系列卷五Reasonable Doubt*
